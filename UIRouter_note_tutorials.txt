@@ -2,7 +2,7 @@ UI Router
 
 ----------------------------- Tutorials ----------------------------------------------------------
 
-1. Hello world
+1. Hello world (không có trong code demo github)
 - Tạo các Component
 - Export ra các State cho từng Component: Có 3 thuộc tính: name, url, component
 	E.g: 
